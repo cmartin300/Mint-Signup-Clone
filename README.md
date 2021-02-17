@@ -1,4 +1,4 @@
-# Mint Sugnup Page Clone
+# Mint Signup Page Clone
 
 ### Beginning 02.17.2021
 
