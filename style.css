@@ -19,6 +19,10 @@ html {
     /* font-family: 'Arimo', sans-serif; */
 }
 
+body {
+    background-color: #dadada;
+}
+
 a {
     text-decoration: none;
     color: rgb(29, 145, 223);
